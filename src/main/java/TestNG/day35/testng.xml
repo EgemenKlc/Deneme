@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/10132817/IdeaProjects/Deneme/src/main/java/day35/AllAnnotations.java">
+        <classes>
+            <class name="TestNG.day35.AllAnnotations">
+                <methods>
+                    <include name="tm1"/>
+                    <include name="tm2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
